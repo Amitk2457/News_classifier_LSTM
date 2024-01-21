@@ -19,4 +19,4 @@ In an era inundated with information, the menace of fake news has become a formi
 
 ```bash
 git clone https://github.com/Amitk2457/News_classifier_LSTM.git
-cd fake-news-classifier
+cd News_classifier_LSTM
